@@ -23,10 +23,10 @@
 
 <!--   GitHub stats graph -->
 ### 📈 Wakatime Activity:
-<!-- [![tylerjosephrose's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tylerjosephrose&theme=github-compact)](https://github.com/tylerjosephrose/github-readme-activity-graph) -->
 [![wakatime](https://wakatime.com/badge/user/1ee20799-491e-42f2-9180-4b81857aa166.svg)](https://wakatime.com/@1ee20799-491e-42f2-9180-4b81857aa166)
 
-<iframe><embed src="https://wakatime.com/share/@trose/fb43579b-e3a0-4490-950e-e2e57f329344.svg"></embed></iframe>
+![](https://wakatime.com/share/@trose/fb43579b-e3a0-4490-950e-e2e57f329344.svg)
+<image src="https://wakatime.com/share/@trose/fb43579b-e3a0-4490-950e-e2e57f329344.svg"></image>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@trose/117f0f3b-e1e5-4a74-a685-fe80b449578a.png" /></a>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@trose/d7ae913f-64b4-4ed9-b46a-3fe1f7417e71.png" /></a>
 ![](assets/Bottom_down.svg)
